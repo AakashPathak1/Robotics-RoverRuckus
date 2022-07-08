@@ -14,9 +14,10 @@
 
 https://user-images.githubusercontent.com/54967572/177926752-19221b6e-6ace-4999-90f6-ef487dd24d25.mp4
 
-
-
-
-
 https://user-images.githubusercontent.com/54967572/177927090-3d608414-06f1-451d-b68e-7b2e5563a6bf.mov
+
+## Previous Designs
+### This video is a older design we used and programmed before we finalized our final competition design.
+
+https://user-images.githubusercontent.com/54967572/177928609-75e5a5a3-62b1-4439-a2ee-ad16bba730aa.mov
 
